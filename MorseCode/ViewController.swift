@@ -8,8 +8,6 @@
 
 import UIKit
 
-Zip2
-
 class ViewController: UIViewController {
     
     @IBOutlet var textField: UITextField
